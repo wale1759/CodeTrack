@@ -1,4 +1,4 @@
-# CodeTrack
+# CodeTrack - Olawale Sanmi-Afolabi
 
 CodeTrack is a repository for tracking and managing code-related work. It provides a central place to organize project progress, development notes, and implementation details.
 
