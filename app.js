@@ -3,7 +3,9 @@
 const name = "Olawale Sanmi-Afolabi";
 const age = 90;
 const isEnrolled = true;
-console.log(name, age, isEnrolled);   
+console.log(name);
+console.log(age);
+console.log(isEnrolled);
 
 // Question 2
 let walletBalance = 5000;
@@ -34,7 +36,12 @@ const multiply = a * b
 const divide = a / b
 const modulus = a % b  
 const raiseToPower = a ** b 
-console.log(add, subtract, multiply, divide, modulus, raiseToPower);
+console.log(add)
+console.log(subtract)
+console.log(multiply)
+console.log(divide)
+console.log(modulus)
+console.log(raiseToPower)
 
 // Question 6
 const jerseyCost = 12000;
@@ -48,7 +55,8 @@ const studentScore = 68;
 const passMark = 50;
 const isPassed = studentScore > passMark;
 const isHigherThan70 = studentScore >= 70;
-console.log(isPassed, isHigherThan70);
+console.log(isPassed)
+console.log(isHigherThan70);
 
 // Question 8
 const priceA = 8000;
@@ -57,25 +65,31 @@ const isPriceAHigher = priceA > priceB;
 const isPriceALower = priceA < priceB;
 const isPriceALowerOrEqual = priceA <= priceB;
 const isPriceAHigherOrEqual = priceA >= priceB;
-console.log(isPriceAHigher, isPriceALower, isPriceALowerOrEqual, isPriceAHigherOrEqual);
+console.log(isPriceAHigher)
+console.log(isPriceALower)
+console.log(isPriceALowerOrEqual)
+console.log(isPriceAHigherOrEqual)  
 
 //Question 9
 const num = 7;
 const str = "7";
 const isEqual = num == str;
 const isStrictlyEqual = num === str;
-console.log(isEqual, isStrictlyEqual);
+console.log(isEqual)
+console.log(isStrictlyEqual);
 
 // Question 10
 const isInEqual = num != str;
 const isStrictlyInEqual = num !== str;
-console.log(isInEqual, isStrictlyInEqual);
+console.log(isInEqual)
+console.log(isStrictlyInEqual);
 // what ! does is that it negates the value of the variable. For example, if the variable is true, it will become false and vice versa.
 
 //Question 11
-let isRaining = true;
-let isWeekend = false;
-console.log(!isRaining, !isWeekend);
+const isRaining = true;
+const isWeekend = false;
+console.log(!isRaining)
+console.log(!isWeekend);
 
 //Question 12
 const correctPin = 1234;
