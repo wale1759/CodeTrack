@@ -13,13 +13,15 @@ console.log(walletBalance);
 walletBalance = 7500;
 console.log(walletBalance);
 
+//let is used in question 2 because the value of walletBalance can be changed, while const is used in question 1 because the values of name, age, and isEnrolled are constant and cannot be changed.
+
 // Question 3
 const itemsInCart = 3;
 console.log(itemsInCart);
 // The value of itemsInCart is a whole number(Integer) and it is a constant value that cannot be changed.
 const itemPrice = 1.999;
 console.log(itemPrice);
-// The value of itemPrice is a decimal number(Float) and it is a constant value that cannot be changed.
+// The value of itemPrice is a decimal number and it is a constant value that cannot be changed.
 
 //Question 4
 const price = 2500
